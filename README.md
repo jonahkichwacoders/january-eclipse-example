@@ -14,7 +14,7 @@ installed & basic knowledge on how to use it
 
 ## How-to
 
-* Create a new maven project in Eclipse
+1. Create a new maven project in Eclipse
 
   ![screenshot1](res/screen1.png)
 
@@ -32,7 +32,7 @@ will be using com.test and mvnExample.
 
   ![screenshot4](res/screen6.png)
 
-* Click of the file called pom.xml
+2. Click of the file called pom.xml
 
   ![screenshot5](res/screen7.png)
 
@@ -41,7 +41,7 @@ will be using com.test and mvnExample.
   * Artifact Id: org.eclipse.january
   * Version: 2.0.2
 
-* You can now use all the january classes in you project. Here is some example
+3. You can now use all the january classes in you project. Here is some example
   code:
 
   ```java
