@@ -51,3 +51,9 @@ will be using com.test and mvnExample.
   System.out.println("toString of dataset: " + dataset.toString());
   System.out.println("toString, with data, of dataset: \n" + dataset.toString(true));
   ```
+
+## Get my project
+
+You can clone my project with git,
+`https://github.com/yannick-mayeur/january-eclipse-example.git`, if you want to
+check it out.
