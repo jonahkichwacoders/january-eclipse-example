@@ -8,7 +8,7 @@ installed & basic knowledge on how to use it
 * Having **maven** installed
   * On Windows: https://www.mkyong.com/maven/how-to-install-maven-in-windows/
   * On Linux: `apt install maven`
-* Having **Java** 7 or more installed
+* Having **Java** 8 or more installed
   * On Windows: https://www.java.com/en/download/
   * On Linux: `apt install openjdk-8-jdk` and `apt install openjdk-8-jre`
 
