@@ -63,5 +63,5 @@ code to paste into the App.java file under src/main/java\>com.test.mvnExample:
 ## Get my project
 
 You can clone my project with git,
-`git clone https://github.com/yannick-mayeur/january-eclipse-example.git`, if
+`git clone https://github.com/jonahkichwacoders/january-eclipse-example.git`, if
 you want to check it out.
