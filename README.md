@@ -42,7 +42,7 @@ will be using com.test and mvnExample.
 
    Under the depencies tab click on add and complete with following
 information:
-   * Group Id: com.github.yannick-mayeur
+   * Group Id: org.eclipse.january
    * Artifact Id: org.eclipse.january
    * Version: 2.0.2
 
